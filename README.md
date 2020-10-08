@@ -34,5 +34,5 @@ Enter valid numerical values in all 3 input boxes and hit Predict.
 
 If everything goes well, you should  be able to see the predcited salary vaule on the HTML page!
 check the output here: http://127.0.0.1:5000/predict
-<br.
+<br>
 ![output](https://github.com/akrish4/Deploy-ML-model-using-flask/blob/main/1.png)
