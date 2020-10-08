@@ -37,4 +37,5 @@ check the output here: http://127.0.0.1:5000/predict
 <br>
 ![output](https://github.com/akrish4/Deploy-ML-model-using-flask/blob/main/1.png)
 **output**
+<br>
 ![output](https://github.com/akrish4/Deploy-ML-model-using-flask/blob/main/2.png)
