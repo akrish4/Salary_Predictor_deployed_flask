@@ -5,12 +5,10 @@ This is a simple project to elaborate how to deploy a Machine Learning model usi
 ### Prerequisites
 You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for API) installed.
 
-Flask version: 0.12.2
-conda install flask=0.12.2  (or) pip install Flask==0.12.2
 
 ### Project Structure
 This project has four major parts :
-1. model.py - This contains code fot our Machine Learning model to predict employee salaries absed on trainign data in 'hiring.csv' file.
+1. model.py - This contains code fot our Machine Learning model to predict employee salaries based on trainign data in 'hiring.csv' file.
 2. app.py - This contains Flask APIs that receives employee details through GUI or API calls, computes the precited value based on our model and returns it.
 3. template - This folder contains the HTML template (index.html) to allow user to enter employee detail and displays the predicted employee salary.
 4. static - This folder contains the css folder with style.css file which has the styling required for out index.html file.
