@@ -1,5 +1,5 @@
 # Deploy-ML-model-using-Flask
-
+## In this case I have made a salary predictor model and deployed using flask
 This is a simple project to elaborate how to deploy a Machine Learning model using Flask API
 
 ### Prerequisites
